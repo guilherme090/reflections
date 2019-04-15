@@ -1,0 +1,43 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It helps us focus only on the parts that were changed, which are obviously the 
+	reason the program stopped working in the first place.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Being able to access each and every change that has taken place in the software,
+	correcting bugs and being able to reuse this information in future versions of the
+	program will increase efficiency in programming.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    manually choosing can be cumbersome and take considerable time, while Google docs
+	saves a lot of programming time. On the other hand, if the changes are automatic,
+	chances are some errors will overwrite working previous versions of the program.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Those version control systems normally apply to software that can consist of 
+	different files that work together, even though they belong to the same project.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    In Git Bash, the git log command lists the current versions of the project. We
+	should then copy the ID's of the versions we want to compare and use them as
+	parameters of the git diff function.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    It becomes easier to get back to previous versions in case a new version
+	completely fails in a safe way, so we don't lose the new versions but we know
+	exactly the differences between the faulty version and others.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Creating a new game.
