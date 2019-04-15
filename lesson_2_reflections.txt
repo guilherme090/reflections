@@ -8,6 +8,10 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+	It is an intermediate point between the working directory and the repository. It 
+	offers the value of letting the user decide which files are going to be commited
+	so that it is not necessary to commit all files in the repository.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
