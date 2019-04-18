@@ -29,10 +29,26 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+	The diagrams create a kind of a map that can show us more clearly how the various
+	branches and commits are related in the project. This is very difficult to do
+	using git log, since youy are not able to track all paths at once.
+	
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	All of the changes in each branch will be updated to the new merged branch. It is
+	represented like this because it makes it easier to keep track of the project's
+	history when doing so.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+	
+	Git's automatic merging makes the job easier when the changes do not create any
+	kind of conflict, but can be confusing in big projects with changes that do
+	create a conflict. It is also harder to understand what has been done by each 
+	user in the automatic version. The manual version, on the other hand, is
+	cumbersome when we try to resolve conflicts, although they show exactly what each
+	user did that caused the conflicts.
+	
 
 
