@@ -9,3 +9,18 @@ stay up-to-date with your remote repository?
 	Because sometimes we need to work more on a feature before making it visible to the
 	public.
 
+Describe the differences between forks, clones, and branches. When would you use one 
+instead of another?
+
+	1. Branches are created locally in a repository. They alter the flow that the commits
+	would normally follow in a project so new features can be added or tests can be run.
+	We use it when we want to add those features.
+	
+	2. Clones create a copy of a whole repository either locally or from Github with all
+	the current commit history. We use them when we want to create a copy of the project
+	to work on from a computer.
+	
+	3. Forks work similarly as clones, but they only operate inside Github and they also
+	keep the reference to the original project, although changes in the new project
+	will not affect the original. Forked projects can then be cloned. We use forks when
+	we want to be able to refer back to the original project.
