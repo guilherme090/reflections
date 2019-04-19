@@ -24,3 +24,10 @@ instead of another?
 	keep the reference to the original project, although changes in the new project
 	will not affect the original. Forked projects can then be cloned. We use forks when
 	we want to be able to refer back to the original project.
+	
+What is the benefit of having a copy of the last known state of the remote stored 
+locally?
+
+	It helps people keep working on a project even if they temporarily do not have
+	access to the Internet. It will be helpful when it is desired to merge the local
+	and remote versions, knowing that the remote one might have changed.
