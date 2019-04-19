@@ -8,3 +8,4 @@ stay up-to-date with your remote repository?
 
 	Because sometimes we need to work more on a feature before making it visible to the
 	public.
+
