@@ -31,3 +31,12 @@ locally?
 	It helps people keep working on a project even if they temporarily do not have
 	access to the Internet. It will be helpful when it is desired to merge the local
 	and remote versions, knowing that the remote one might have changed.
+	
+How would you collaborate without using Git or GitHub? What would be easier, and what 
+would be harder?
+
+	I would collaborate using another system such as Dropbox. It would make updates
+	faster and the system would be easier to use, but I wouldn't have a way of keep
+	track of every update with the notes (like commits) that make it easier to know
+	exactly what was done in each version of the program, so debugging would be rather
+	difficult.
