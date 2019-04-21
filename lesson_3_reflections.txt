@@ -40,3 +40,12 @@ would be harder?
 	track of every update with the notes (like commits) that make it easier to know
 	exactly what was done in each version of the program, so debugging would be rather
 	difficult.
+	
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+
+	Changes in a separate branch benefit more from new features testing and they are
+	more appropriate when the programmer is not sure whether there will be major crashes
+	with those. Branches then will allow the project to be safer, since the master branch
+	remains untouched. On the other hand, committing directly to master is simpler to do
+	and also easier to push to GitHub.
